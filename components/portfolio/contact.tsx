@@ -62,7 +62,7 @@ export function Contact() {
           </a>
 
           <a
-            href="https://www.linkedin.com/in/deedavuluri/"
+            href="https://linkedin.com/in/deedavuluri"
             target="_blank"
             rel="noopener noreferrer"
             className="group flex items-center gap-4 p-5 rounded-xl border border-border bg-card/30 hover:border-primary/40 transition-all duration-300"

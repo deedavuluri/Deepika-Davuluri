@@ -212,7 +212,7 @@ export function Hero() {
               Contact
             </a>
             <a
-              href="https://www.linkedin.com/in/deedavuluri/"
+              href="https://linkedin.com/in/deedavuluri"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 px-5 py-2.5 border border-border text-foreground font-mono text-xs rounded-lg hover:border-primary hover:text-primary transition-colors"
